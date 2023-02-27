@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+}
+.box1{
+    /* border: 1px solid black; */
+    background-color: #F4FBFF;
+    height: 100px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.whole{
+    display: flex;
+    border: none;
+    box-sizing: border-box;
+    border: 1px solid #BE68F2;
+    border-radius: 38px;
+    margin-top: 10px;
+    height: 56px;
+    width: 300px;
+    padding-left: 35px;
+    background-color: white;
+}
+.whole #input{
+    border: none;
+}
+.whole #btn{
+    border: none;
+    background-color: white;
+}
+.box1 .hi{
+    border: 1px solid #BE68F2;
+    box-sizing: border-box;
+    border-radius: 38px;
+    height: 50px;
+    margin: 25px;
+    width: 120px;
+    margin-left: 800px;
+    padding-left: 35px;
+
+}
+.box1 .profile{
+    margin-left: 10px;
+    padding: 5px;
+}
+.box2{
+    display: flex;
+    /* border: 1px solid black; */
+    height: 100px;
+    margin-bottom: 10px;
+}
+.box3{
+    display: flex;
+    /* border: 1px solid black; */
+    height: 520px;
+}
+.f1,.s2,.t3,.f4,.f5,.s6{
+    margin: 20px;
+    margin-left: 130px;
+}
+.suggestion{
+    background-color: #EFF3FF;
+    margin: 10px;
+    margin-left: 0px;
+    border: 1px solid black;
+    width: 367px;
+    height: 500px;
+}
+.u{ 
+    background-color: #EFF3FF;
+    margin: 10px;
+    margin-left: 80px;
+    border-radius: 34px;
+    border: 1px solid black;
+    width: 626px;
+    height: 500px;
+}
+.friend{
+    background-color: #EFF3FF;
+    margin: 10px;
+    margin-left: 80px;
+    border: 1px solid black;
+    width: 367px;
+    height: 500px;
+}
+.suggestion #p{
+    margin: 10px;
+    font-size: x-large;
+    color: rebeccapurple;
+    text-align: center;
+
+}
+.u #i{
+    margin: 20px;
+}
+.demo{
+    display: flex;
+    box-sizing: border-box ;
+}
+.demo #usr{
+    padding-top: 35px;
+}
+.friend #p{
+    margin: 10px;
+    text-align: center;
+}
